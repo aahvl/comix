@@ -1,5 +1,7 @@
 # Comix Wallet
 
+## ORGS OF HCTG CANCEL THIS SHIP.
+
 ## Advanced imagery crypto wallet, baked inside discord.
 
 ### SEND FEATURE NOT IMPLEMENTED.
