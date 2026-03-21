@@ -1,0 +1,14 @@
+discord.py
+supabase
+mnemonic
+bip32utils
+solders
+solana
+cryptography
+bcrypt
+requests
+python-dotenv
+aiohttp
+Pillow
+matplotlib
+qrcode
