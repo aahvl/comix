@@ -2,6 +2,8 @@
 
 ## Advanced imagery crypto wallet, baked inside discord.
 
+### SEND FEATURE NOT IMPLEMENTED.
+
 Use Solana and Litecoin in this wallet. You can send or recieve crypto. It has a beautiful dashboard and market activity using a line chart with data from CoinGecko.
 Easily send and recieve crypto through this wallet.
 
@@ -10,3 +12,4 @@ Setup Instructions:
 2. Set up API keys, get supabase and use schema.sql
 3. Make a fernet key.
 4. You are all good to go to self host this.
+
