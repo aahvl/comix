@@ -15,3 +15,5 @@ Setup Instructions:
 3. Make a fernet key.
 4. You are all good to go to self host this.
 
+AI was used for some errors, and main imagery of dashboard.
+
