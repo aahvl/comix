@@ -1,6 +1,6 @@
 # Comix Wallet
 
-## ORGS OF HCTG CANCEL THIS SHIP.
+https://github.com/user-attachments/assets/0a576bf6-13d2-45cb-85c6-458103d8f8c7
 
 ## Advanced imagery crypto wallet, baked inside discord.
 
